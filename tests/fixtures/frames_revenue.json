@@ -1,0 +1,14 @@
+{
+  "taxonomy": "us-gaap",
+  "tag": "Revenues",
+  "ccp": "CY2023",
+  "uom": "USD",
+  "label": "Revenues",
+  "description": "Amount of revenue recognized from goods sold...",
+  "pts": 3,
+  "data": [
+    {"accn": "0001234567-23-000001", "cik": 1001, "entityName": "Alpha Corp", "loc": "US-DE", "end": "2023-12-31", "val": 500000000},
+    {"accn": "0001234568-23-000002", "cik": 1002, "entityName": "Beta Inc",   "loc": "US-DE", "end": "2023-12-31", "val": 1200000000},
+    {"accn": "0001234569-23-000003", "cik": 1003, "entityName": "Gamma LLC",  "loc": "US-DE", "end": "2023-12-31", "val": 300000000}
+  ]
+}

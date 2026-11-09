@@ -1,0 +1,10 @@
+{
+  "fields": ["cik", "name", "ticker", "exchange"],
+  "data": [
+    [1001, "Alpha Corp", "ALPH", "NYSE"],
+    [1002, "Beta Inc", "BETA", "Nasdaq"],
+    [1003, "Gamma LLC", "GAMM", "NYSE"],
+    [1004, "Delta Financial Corp", "DELT", "NYSE"],
+    [1005, "EpsilonBank Bancorp", "EPSI", "Nasdaq"]
+  ]
+}

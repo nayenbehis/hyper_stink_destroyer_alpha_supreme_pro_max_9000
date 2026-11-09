@@ -1,0 +1,41 @@
+{
+  "kind": "Listing",
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abc123",
+          "title": "BFAM — strong free cash flow, anyone else long?",
+          "score": 87,
+          "num_comments": 23,
+          "created_utc": 1704067200,
+          "permalink": "/r/ValueInvesting/comments/abc123/bfam_thesis/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "def456",
+          "title": "Bright Horizons Q3 earnings beat, raising guidance",
+          "score": 34,
+          "num_comments": 8,
+          "created_utc": 1706745600,
+          "permalink": "/r/stocks/comments/def456/bfam_q3/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abc123",
+          "title": "duplicate — should be deduplicated",
+          "score": 10,
+          "num_comments": 1,
+          "created_utc": 1706745600,
+          "permalink": "/r/stocks/comments/abc123/dup/"
+        }
+      }
+    ],
+    "after": null
+  }
+}

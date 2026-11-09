@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ownershipDocument>
+  <reportingOwner>
+    <reportingOwnerId>
+      <rptOwnerName>Jane Smith</rptOwnerName>
+    </reportingOwnerId>
+    <reportingOwnerRelationship>
+      <isOfficer>1</isOfficer>
+      <officerTitle>CEO</officerTitle>
+    </reportingOwnerRelationship>
+  </reportingOwner>
+  <nonDerivativeTable>
+    <nonDerivativeTransaction>
+      <transactionDate><value>2024-03-01</value></transactionDate>
+      <transactionCoding>
+        <transactionCode>P</transactionCode>
+      </transactionCoding>
+      <transactionAmounts>
+        <transactionShares><value>2500</value></transactionShares>
+        <transactionPricePerShare><value>42.00</value></transactionPricePerShare>
+        <transactionAcquiredDisposedCode><value>A</value></transactionAcquiredDisposedCode>
+      </transactionAmounts>
+    </nonDerivativeTransaction>
+    <nonDerivativeTransaction>
+      <transactionDate><value>2024-03-05</value></transactionDate>
+      <transactionCoding>
+        <transactionCode>S</transactionCode>
+      </transactionCoding>
+      <transactionAmounts>
+        <transactionShares><value>1000</value></transactionShares>
+        <transactionPricePerShare><value>45.50</value></transactionPricePerShare>
+        <transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode>
+      </transactionAmounts>
+    </nonDerivativeTransaction>
+    <nonDerivativeTransaction>
+      <transactionDate><value>2024-03-10</value></transactionDate>
+      <transactionCoding>
+        <transactionCode>F</transactionCode>
+      </transactionCoding>
+      <transactionAmounts>
+        <transactionShares><value>300</value></transactionShares>
+        <transactionPricePerShare><value>44.00</value></transactionPricePerShare>
+        <transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode>
+      </transactionAmounts>
+    </nonDerivativeTransaction>
+  </nonDerivativeTable>
+</ownershipDocument>
